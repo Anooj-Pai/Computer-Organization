@@ -1,0 +1,6 @@
+Data:
+BobbyLiu M 34 5.8 180
+Mehmet M 35 5.7 170
+Amelia F 34 5.9 150
+Zepy D 2 2.0 50
+Thelma B 5 1.5 7
